@@ -1,2 +1,2 @@
 <?php
-echo "learn git one";
+echo "learn git two";
